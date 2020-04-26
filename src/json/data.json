@@ -1,0 +1,573 @@
+[
+    {
+        "pref_code": 0,
+        "pref_name": "全国",
+        "pref_coords": "",
+        "social_list": [
+            {
+                "title": "厚生労働省",
+                "twitter": "MHLWitter"
+            },
+            {
+                "title": "気象庁",
+                "twitter": "JMA_kishou"
+            },
+            {
+                "title": "文部科学省",
+                "twitter": "mextjapan"
+            },
+            {
+                "title": "経済産業省",
+                "twitter": "meti_NIPPON"
+            },
+            {
+                "title": "内閣官房",
+                "twitter": "Naikakukanbo"
+            },
+            {
+                "title": "消費者庁",
+                "twitter": "caa_shohishacho"
+            },
+            {
+                "title": "総務省",
+                "twitter": "MIC_JAPAN"
+            },
+            {
+                "title": "国税庁",
+                "twitter": "NTA_Japan"
+            },
+            {
+                "title": "農林水産省",
+                "twitter": "MAFF_JAPAN"
+            },
+            {
+                "title": "金融庁",
+                "twitter": "fsa_JAPAN"
+            },
+            {
+                "title": "特許庁",
+                "twitter": "jpo_NIPPON"
+            },
+            {
+                "title": "首相官邸",
+                "twitter": "Kantei_Saigai"
+            },
+            {
+                "title": "新型コロナウイルス感染症対策推進室",
+                "twitter": "Kanboukansen"
+            },
+            {
+                "title": "内閣府政府広報オンライン",
+                "twitter": "gov_online"
+            },
+            {
+                "title": "安倍晋三",
+                "twitter": "AbeShinzo"
+            }
+        ]
+    },
+    {
+        "pref_code": 1,
+        "pref_name": "北海道",
+        "pref_coords": "624,41,832,200",
+        "social_list": [
+            {
+                "title": "北海道庁",
+                "twitter": "PrefHokkaido"
+            },
+            {
+                "title": "鈴木直道（北海道知事）",
+                "twitter": "suzukinaomichi"
+            }
+        ]
+    },
+    {
+        "pref_code": 2,
+        "pref_name": "青森県",
+        "pref_coords": "623,216,787,267",
+        "social_list": [
+            {
+                "title": "青森県庁",
+                "twitter": "AomoriPref"
+            },
+            {
+                "title": "青森県広報広聴課",
+                "twitter": "aomorist"
+            }
+        ]
+    },
+    {
+        "pref_code": 3,
+        "pref_name": "岩手県",
+        "pref_coords": "706,267,786,328",
+        "social_list": [
+            {
+                "title": "岩手県広聴広報課",
+                "twitter": "pref_iwate"
+            },
+            {
+                "title": "岩手県雫石町 広報",
+                "twitter": "shizukukouhou"
+            }
+        ]
+    },
+    {
+        "pref_code": 4,
+        "pref_name": "宮城県",
+        "pref_coords": "706,330,785,390",
+        "social_list": [
+            {
+                "title": "宮城県広報課",
+                "twitter": "myg_kouhou"
+            }
+        ]
+    },
+    {
+        "pref_code": 5,
+        "pref_name": "秋田県",
+        "pref_coords": "624,268,704,328",
+        "social_list": [
+            {
+                "title": "秋田県庁",
+                "twitter": "pref_akita"
+            }
+        ]
+    },
+    {
+        "pref_code": 6,
+        "pref_name": "山形県",
+        "pref_coords": "626,331,703,332,703,390,657,389,657,375,625,373",
+        "social_list": [
+            {
+                "title": "山形県",
+                "twitter": "pref_yamagata"
+            }
+        ]
+    },
+    {
+        "pref_code": 7,
+        "pref_name": "福島県",
+        "pref_coords": "657,394,787,451",
+        "social_list": [
+            {
+                "title": "福島県",
+                "twitter": "Fukushima_Pref"
+            }
+        ]
+    },
+    {
+        "pref_code": 8,
+        "pref_name": "茨城県",
+        "pref_coords": "746,456,785,534",
+        "social_list": [
+            {
+                "title": "茨城県",
+                "twitter": "Ibaraki_Kouhou"
+            }
+        ]
+    },
+    {
+        "pref_code": 9,
+        "pref_name": "栃木県",
+        "pref_coords": "685,454,746,517",
+        "social_list": [
+            {
+                "title": "栃木県広報課",
+                "twitter": "pref_tochigi"
+            }
+        ]
+    },
+    {
+        "pref_code": 10,
+        "pref_name": "群馬県",
+        "pref_coords": "623,455,682,517",
+        "social_list": [
+            {
+                "title": "群馬県",
+                "twitter": "GunmaPref_koho"
+            }
+        ]
+    },
+    {
+        "pref_code": 11,
+        "pref_name": "埼玉県",
+        "pref_coords": "622,517,745,566",
+        "social_list": [
+            {
+                "title": "埼玉県庁",
+                "twitter": "pref_saitama"
+            }
+        ]
+    },
+    {
+        "pref_code": 12,
+        "pref_name": "千葉県",
+        "pref_coords": "746,537,787,681",
+        "social_list": [
+            {
+                "title": "千葉市広報広聴課",
+                "twitter": "Chiba_city_PR"
+            }
+        ]
+    },
+    {
+        "pref_code": 13,
+        "pref_name": "東京都",
+        "pref_coords": "654,567,744,619",
+        "social_list": [
+            {
+                "title": "東京都庁広報課",
+                "twitter": "tocho_koho"
+            }
+        ]
+    },
+    {
+        "pref_code": 14,
+        "pref_name": "神奈川県",
+        "pref_coords": "636,619,718,619,719,677,655,676,655,648,636,647",
+        "social_list": [
+            {
+                "title": "神奈川県庁広報部門",
+                "twitter": "KanagawaPref_PR"
+            }
+        ]
+    },
+    {
+        "pref_code": 15,
+        "pref_name": "新潟県",
+        "pref_coords": "626,376,654,377,654,449,576,450,576,391,624,391",
+        "social_list": [
+            {
+                "title": "新潟県広報広聴課",
+                "twitter": "Niigata_Press"
+            }
+        ]
+    },
+    {
+        "pref_code": 16,
+        "pref_name": "富山県",
+        "pref_coords": "511,393,571,452",
+        "social_list": [
+            {
+                "title": "富山県",
+                "twitter": "pref_toyama"
+            }
+        ]
+    },
+    {
+        "pref_code": 17,
+        "pref_name": "石川県",
+        "pref_coords": "468,372,509,452",
+        "social_list": [
+            {
+                "title": "石川県広報広聴室",
+                "twitter": "hot_ishikawa"
+            }
+        ]
+    },
+    {
+        "pref_code": 18,
+        "pref_name": "福井県",
+        "pref_coords": "468,453,508,455,506,512,429,513,430,473,467,473",
+        "social_list": [
+            {
+                "title": "福井県庁危機対策・防災課",
+                "twitter": "kikitaisaku"
+            }
+        ]
+    },
+    {
+        "pref_code": 19,
+        "pref_name": "山梨県",
+        "pref_coords": "591,569,653,618",
+        "social_list": [
+            {
+                "title": "山梨県総合政策部広聴",
+                "twitter": "yamanashipref"
+            }
+        ]
+    },
+    {
+        "pref_code": 20,
+        "pref_name": "長野県",
+        "pref_coords": "554,455,618,455,619,564,588,565,587,615,554,615",
+        "social_list": [
+            {
+                "title": "長野県",
+                "twitter": "NaganoPref"
+            }
+        ]
+    },
+    {
+        "pref_code": 21,
+        "pref_name": "岐阜県",
+        "pref_coords": "510,456,550,619",
+        "social_list": [
+            {
+                "title": "岐阜県危機管理部",
+                "twitter": "gifukenkiki"
+            }
+        ]
+    },
+    {
+        "pref_code": 22,
+        "pref_name": "静岡県",
+        "pref_coords": "573,619,630,619,631,652,650,651,651,678,572,677",
+        "social_list": [
+            {
+                "title": "静岡県　防災",
+                "twitter": "shizuoka_bousai"
+            }
+        ]
+    },
+    {
+        "pref_code": 23,
+        "pref_name": "愛知県",
+        "pref_coords": "511,622,570,682",
+        "social_list": [
+            {
+                "title": "愛知県",
+                "twitter": "pref_aichi"
+            }
+        ]
+    },
+    {
+        "pref_code": 24,
+        "pref_name": "三重県",
+        "pref_coords": "469,580,508,718",
+        "social_list": [
+            {
+                "title": "三重県庁",
+                "twitter": "koho_mie"
+            }
+        ]
+    },
+    {
+        "pref_code": 25,
+        "pref_name": "滋賀県",
+        "pref_coords": "469,517,508,575",
+        "social_list": [
+            {
+                "title": "滋賀県",
+                "twitter": "watan_shiga"
+            }
+        ]
+    },
+    {
+        "pref_code": 26,
+        "pref_name": "京都府",
+        "pref_coords": "385,477,426,475,425,516,465,518,464,575,385,574",
+        "social_list": [
+            {
+                "title": "京都府庁広報課",
+                "twitter": "KyotoPrefPR"
+            }
+        ]
+    },
+    {
+        "pref_code": 27,
+        "pref_name": "大阪府",
+        "pref_coords": "385,579,423,645",
+        "social_list": [
+            {
+                "title": "大阪府",
+                "twitter": "osakaprefPR"
+            }
+        ]
+    },
+    {
+        "pref_code": 28,
+        "pref_name": "兵庫県",
+        "pref_coords": "341,474,382,598",
+        "social_list": [
+            {
+                "title": "兵庫県広報戦略課",
+                "twitter": "hyogokoho"
+            }
+        ]
+    },
+    {
+        "pref_code": 29,
+        "pref_name": "奈良県",
+        "pref_coords": "426,579,466,672",
+        "social_list": [
+            {
+                "title": "奈良県",
+                "twitter": "narakencyou"
+            }
+        ]
+    },
+    {
+        "pref_code": 30,
+        "pref_name": "和歌山県",
+        "pref_coords": "385,649,423,648,423,672,465,674,465,716,384,717",
+        "social_list": [
+            {
+                "title": "和歌山県",
+                "twitter": "WakayamaPref"
+            }
+        ]
+    },
+    {
+        "pref_code": 31,
+        "pref_name": "鳥取県",
+        "pref_coords": "301,474,339,534",
+        "social_list": [
+            {
+                "title": "鳥取県",
+                "twitter": "tottoripref"
+            }
+        ]
+    },
+    {
+        "pref_code": 32,
+        "pref_name": "島根県",
+        "pref_coords": "257,475,298,534",
+        "social_list": []
+    },
+    {
+        "pref_code": 33,
+        "pref_name": "岡山県",
+        "pref_coords": "299,537,339,598",
+        "social_list": [
+            {
+                "title": "岡山県公聴広報課",
+                "twitter": "okayama_kocho"
+            }
+        ]
+    },
+    {
+        "pref_code": 34,
+        "pref_name": "広島県",
+        "pref_coords": "258,537,298,596",
+        "social_list": [
+            {
+                "title": "広島県",
+                "twitter": "hiroshima_pref"
+            }
+        ]
+    },
+    {
+        "pref_code": 35,
+        "pref_name": "山口県",
+        "pref_coords": "217,473,256,596",
+        "social_list": []
+    },
+    {
+        "pref_code": 36,
+        "pref_name": "徳島県",
+        "pref_coords": "291,669,363,718",
+        "social_list": []
+    },
+    {
+        "pref_code": 37,
+        "pref_name": "香川県",
+        "pref_coords": "290,617,363,666",
+        "social_list": [
+            {
+                "title": "香川県広報広聴課",
+                "twitter": "PrefKagawa"
+            }
+        ]
+    },
+    {
+        "pref_code": 38,
+        "pref_name": "愛媛県",
+        "pref_coords": "216,615,287,666",
+        "social_list": []
+    },
+    {
+        "pref_code": 39,
+        "pref_name": "高知県",
+        "pref_coords": "216,668,288,717",
+        "social_list": [
+            {
+                "title": "高知県広報広聴課",
+                "twitter": "pref_kochi"
+            }
+        ]
+    },
+    {
+        "pref_code": 40,
+        "pref_name": "福岡県",
+        "pref_coords": "95,475,194,474,195,514,155,514,154,562,95,564",
+        "social_list": [
+            {
+                "title": "福岡県",
+                "twitter": "Pref_Fukuoka"
+            }
+        ]
+    },
+    {
+        "pref_code": 41,
+        "pref_name": "佐賀県",
+        "pref_coords": "53,475,91,564",
+        "social_list": [
+            {
+                "title": "佐賀県庁",
+                "twitter": "saga_kouhou"
+            }
+        ]
+    },
+    {
+        "pref_code": 42,
+        "pref_name": "長崎県",
+        "pref_coords": "10,475,51,565",
+        "social_list": [
+            {
+                "title": "長崎県",
+                "twitter": "nagasakipmaster"
+            }
+        ]
+    },
+    {
+        "pref_code": 43,
+        "pref_name": "熊本県",
+        "pref_coords": "93,567,154,658",
+        "social_list": []
+    },
+    {
+        "pref_code": 44,
+        "pref_name": "大分県",
+        "pref_coords": "156,515,197,586",
+        "social_list": [
+            {
+                "title": "大分県",
+                "twitter": "oitapref"
+            }
+        ]
+    },
+    {
+        "pref_code": 45,
+        "pref_name": "宮崎県",
+        "pref_coords": "157,588,196,657",
+        "social_list": [
+            {
+                "title": "宮崎県秘書広報課広報",
+                "twitter": "miyazakipref"
+            }
+        ]
+    },
+    {
+        "pref_code": 46,
+        "pref_name": "鹿児島県",
+        "pref_coords": "94,659,198,720",
+        "social_list": [
+            {
+                "title": "鹿児島県広報課",
+                "twitter": "kagoshimakensei"
+            }
+        ]
+    },
+    {
+        "pref_code": 47,
+        "pref_name": "沖縄県",
+        "pref_coords": "94,738,134,798",
+        "social_list": [
+            {
+                "title": "沖縄県広報課",
+                "twitter": "okinawa_pref"
+            }
+        ]
+    }
+]
